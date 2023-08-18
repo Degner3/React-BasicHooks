@@ -5,6 +5,7 @@ import { HilsenState } from './components/useState/HilsenState/Hilsen'
 // import { Regner } from './components/useState/Regner/Regner'
 import { Taeller } from './components/useState/Taeller/Taeller'
 import { IntroEffect } from './components/useEffect/Intro/IntroEffect'
+import { Timer } from './components/useEffect/Timer/Timer'
 
 
 
@@ -17,7 +18,9 @@ function App() {
       {/* <Taeller/> */}
       {/* <Content/> */}
       {/* <Regner/> */}
-      <IntroEffect/>
+      {/* <IntroEffect/> */}
+
+      <Timer/>
     </>
   )
 }
