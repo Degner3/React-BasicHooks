@@ -26,7 +26,7 @@ function App() {
       {/* <IntroEffect/> */}
 
 
-      {/* <Timer/> */}
+      <Timer/>
       {/* <Validation/> */}
       {/* <ShowUsers/> */}
     </>
