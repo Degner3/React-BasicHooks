@@ -18,10 +18,10 @@ function App() {
 
   return (
     <>
-      {/* <Intro/> */}
-      {/* <HilsenState/> */}
-      {/* <Taeller/> */}
-      {/* <Content/> */}
+      <Intro/>
+      <HilsenState/>
+      <Taeller/>
+      <Content/>
       {/* <Regner/> */}
       {/* <IntroEffect/> */}
 
